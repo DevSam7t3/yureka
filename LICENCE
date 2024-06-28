@@ -1,10 +1,10 @@
-# create-axiom license
+# create-yureka license
 
-create-axiom is released under the MIT license:
+create-yureka is released under the MIT license:
 
 MIT License
 
-Copyright (c) 2024-present, DevSam (Samiullah) and Axiom contributors
+Copyright (c) 2024-present, DevSam (Samiullah) and yureka contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -26,7 +26,7 @@ SOFTWARE.
 
 # Licenses of bundled dependencies
 
-The published create-axiom artifact additionally contains code with the following licenses:
+The published create-yureka artifact additionally contains code with the following licenses:
 ISC, MIT
 
 # Bundled dependencies:

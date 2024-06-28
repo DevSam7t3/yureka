@@ -1,8 +1,8 @@
-# create-axiom
+# create-yureka
 
 ## Description
 
-This is a project template for [Axiom](https://github.com/templify-2). It provides a starting point for creating new projects using Templify.
+This is a project template for [yureka](https://github.com/templify-2). It provides a starting point for creating new projects using Templify.
 
 ## Features
 

@@ -1,14 +1,14 @@
 {
-  "name": "axiom",
+  "name": "yureka",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "create-axiom": "index.js"
+    "create-yureka": "index.js"
   },
   "keywords": [
-    "axiom",
-    "create-axiom-app",
+    "yureka",
+    "create-yureka-app",
     "template",
     "nextjs",
     "clerk",
