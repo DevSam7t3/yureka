@@ -139,7 +139,8 @@
   "description": "Generate templates for your projects with ease!",
   "files": [
     "index.js",
-    "templates/*"
+    "templates/*",
+    "src/*"
   ],
   "devDependencies": {
     "prettier": "3.3.2"

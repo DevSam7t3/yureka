@@ -1,3 +1,4 @@
 LICENSE.md
 package-lock.json
 pnpm-workspace.yaml
+src/*
