@@ -1,0 +1,64 @@
+{
+    "name": "create-yureka",
+    "version": "0.0.1",
+    "description": "Generate Templates with ease",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "yureka": "./dist/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevSam7t3/yureka.git"
+    },
+    "engines": {
+        "node": "^18.0.0 || >=20.0.0"
+    },
+    "homepage": "https://github.com/DevSam7t3/yureka/blob/main/readme.md",
+    "funding": "https://github.com/DevSam7t3/yureka?sponsor=1",
+    "scripts": {
+        "build": "bunx tsc",
+        "start": "bun dist/index.js",
+        "dev": "tsc -w"
+    },
+    "keywords": [
+        "cli",
+        "yureka",
+        "create-yureka-app",
+        "template",
+        "nextjs",
+        "clerk",
+        "nextauth",
+        "prisma",
+        "typescript",
+        "tailwindcss",
+        "mongodb",
+        "postgresql",
+        "mysql",
+        "sqlite",
+        "docker",
+        "supabase",
+        "auth0"
+    ],
+    "author": "Samiullah",
+    "license": "MIT",
+    "dependencies": {
+        "@inquirer/prompts": "^3.0.1",
+        "commander": "^11.0.0",
+        "consola": "^3.2.3",
+        "execa": "^8.0.1",
+        "figlet": "^1.7.0",
+        "gradient-string": "^2.0.2",
+        "ora": "^8.0.1",
+        "picocolors": "^1.0.1",
+        "pluralize": "^8.0.0",
+        "strip-json-comments": "^5.0.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.4.5",
+        "@typescript-eslint/eslint-plugin": "^6.6.0",
+        "@typescript-eslint/parser": "^6.6.0",
+        "eslint": "^8.48.0",
+        "typescript": "^5.1.6"
+    }
+}
