@@ -1,11 +1,6 @@
 > [!NOTE]
 > Note: Only critical bugs are being addressed right now as we are planning a complete rewrite in the very near future!
 
-<p align="center">
-  <picture>
-  <img src="https://github.com/nicoalbanese/gifs_for_demos/blob/main/samurai-helmet.png?raw=true" width="130" alt="Logo for yureka">
-</picture>
-</p>
 
 <h1 align="center">
   yureka
@@ -17,18 +12,7 @@
 <p align="center">yureka is a command-line tool for <strong>building full-stack Next.js apps faster</strong>. It supercharges your development workflow, allowing you to quickly integrate packages and scaffold resources for your application with best practices in mind.</p>
 
 <br />
-<a href="https://www.youtube.com/watch?v=33jlErS3Wxg" target="_blank">
-  <p align="center">
-    <img src="https://github.com/nicoalbanese/gifs_for_demos/blob/main/Screenshot%202023-10-15%20at%2010.36.02.png?raw=true" alt="yureka Demo" width="420" />
-  </p>
-</a>
-<a href="https://www.youtube.com/watch?v=33jlErS3Wxg" target="_blank">
-  <p align="center">Watch the most recent demo here</p>
-</a>
 
-<a href="https://yureka.dev/the-tutorial" target="_blank">
-  <p align="center">Check out the official tutorial here</p>
-</a>
 
 ## Features
 
