@@ -27,7 +27,7 @@ export async function initProject(options?: InitOptions) {
   console.clear();
 
   console.log("\n");
-  figlet('T e m p l i f y', (o, e) => {
+  figlet('Y U R E K A', (o, e) => {
     if (o) return console.log('Something went wrong...'), void console.dir(o)
     console.log(gradient.pastel.multiline(e))
   });
@@ -80,7 +80,7 @@ export async function initProject(options?: InitOptions) {
     alias,
     analytics: true,
   });
-  // consola.success("yureka initialized!");
-  // consola.info("You can now add packages.");
+  consola.success("yureka initialized!");
+  consola.info("You can now add packages.");
   addPackage(options, true);
 }
