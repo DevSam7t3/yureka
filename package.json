@@ -14,7 +14,7 @@
     "engines": {
         "node": "^18.0.0 || >=20.0.0"
     },
-    "homepage": "https://github.com/DevSam7t3/yureka/blob/main/readme.md",
+    "homepage": "https://github.com/DevSam7t3/yureka/blob/main/README.md",
     "funding": "https://github.com/DevSam7t3/yureka?sponsor=1",
     "scripts": {
         "build": "bunx tsc",
